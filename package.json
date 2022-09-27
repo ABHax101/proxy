@@ -12,6 +12,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node ."
   },
+  "engines": {
+    "node": "16.x"
+  },
   "keywords": [
     "proxy"
   ],
